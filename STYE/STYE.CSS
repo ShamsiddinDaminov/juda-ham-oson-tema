@@ -1,0 +1,626 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.Rectangle-60{
+    margin: 0 auto;
+    width: 1600px;
+    height: 862px;
+    background-color:rgb(251, 223, 232);
+    /* border: 1px solid red; */
+}
+.polar{
+    margin-top: 10px;
+    display: flex;
+    width: 1125px;
+    height: 79px;
+    /* border: 1px solid red; */
+     margin: 0 auto;
+     margin-left: 245px;
+     margin-top: 10px;
+}
+
+.logo{
+    margin-top: 31px;
+    margin-left: 200px;
+    font-size: 14px;
+    font-size: 600;
+    color: black;
+    text-decoration: underline;
+    cursor: pointer;
+    text-decoration-line: none
+
+}
+
+.logo-home:hover{
+    color:rgba(210, 49, 102, 1);
+}
+.logo-home{
+    margin-left: 33px;
+    width: 49px;
+    height: 16px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    color: rgba(153, 153, 153, 0.647);
+    /* line-height: 20.41px; */
+}
+.button-1{
+    border: 1px solid rgba(210, 49, 102, 1);
+    width: 165px;
+    height: 49px;
+    margin-left: 185px;
+    margin-top: 15px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgba(210, 49, 103, 0.581);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.button-1:hover{
+   background-color:rgba(210, 49, 102, 1);  
+}
+/* Header1 */
+.header-1{
+    display: flex;
+}
+.Header1{
+    width: 600px;
+    height: 394px;
+    /* border: 1px solid red; */
+    margin-left: 240px;
+    margin-top: 220px;
+}
+
+.muzqaymoq-1{
+    margin-top: -40px;
+    margin-left: -100px;
+}
+/* .removebg-preview{
+    margin-left: 120px;
+} */
+.Sweet{
+    width: 172px;
+    height: 16px;
+    /* border: 1px solidr red; */
+    font-size: 14px;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+.text-h43{
+    width:  665px;
+    height: 130px;
+    font-size: 57.33px;
+    margin-top: -15px;
+    font-weight: 700;
+    line-height: 60.08px;
+    font-family: 'Fredoka One', cursive;
+
+}
+.jdiww{
+    margin-top: -90px;
+}
+span{
+    color: rgba(210, 49, 102, 1);
+    font-size:57.33px;
+    margin-left: 340px;
+   margin-top: -90px;
+}
+.text-p1{
+    margin-top: -10px;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Hind Madurai', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.muzqaymoq1{
+    margin-left: -190px;
+    margin-top: 30px;
+}
+.text-p{
+    width: 523px;
+    height: 78px;
+    font-size: 18px;
+}
+.button-2{
+    width: 165px;
+    height: 49px;
+    background-color:rgba(210, 49, 103, 0.581);
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+    margin-top: 20px;
+    border: 1px solid rgba(210, 49, 102, 1);
+}
+.button-2:hover{
+    background-color: rgba(210, 49, 102, 1);
+}
+
+/* 22:42 */
+
+.Delivery{
+    display: flex;
+    margin: 0 auto;
+    width: 1127px;
+    height: 200px;
+    /* border: 1px solid red; */
+    margin-top: 86px;
+}
+.shipping{
+    margin-left: 30px;
+    width: 250px;
+    height: 200px;
+    /* border:  1px  solid red; */
+    box-shadow: 1px 1px 10px 1px rgb(255, 235, 235);
+    ;
+}
+.free{
+    margin-top: 33px;
+    margin-left: 26px;
+}
+
+/* Rectangle 43  */
+
+.Rectangle43{
+    background-color: rgba(248, 237, 240, 1);
+    display: flex;
+    width: 1600px;
+    height: 544.5px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+    margin-top: 72px;
+}
+
+/* Group 83 */
+
+.Group83{
+    width: 442px;
+    height: 256px;
+    /* border:  1px solid red; */
+    margin-left: 256px;
+    margin-top: 141px;
+}
+.brawin{
+    width: 349px;
+    height: 98.08px;
+    /* border: 1px solid red; */
+
+}
+.bravin{
+    font-size: 44px;
+    font-weight: 600;
+    margin-top: -10px;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Hind Madurai', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.Together-1{
+    font-size: 16px;
+    font-family: 400;
+    font-family: 'Roboto Slab', serif;
+    opacity: 0.8;
+}
+.button-3{
+    margin-top: 30px;
+    font-weight: 500;
+    border-radius: 5px;
+    width: 165px;
+    height: 49.13px;
+    background-color:rgba(210, 49, 103, 0.581);
+    color: aliceblue;
+    border: rgba(210, 49, 103, 0.581);
+}
+.button-3:hover{
+   background-color: rgba(214, 67, 116, 1);
+}
+.section2-image{
+    margin-left: 110px;
+    margin-top: -60px;
+   background-image: url(/rasim02/section2-image\ \(3\).png);
+    background-size: cover;
+    width: 655px;
+    height: 656.6px;
+
+}
+.OurProduct{
+    width: 1160px;
+    height: 2106px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+}
+.OurProduct-1{
+    margin-left: 432px;
+    font-size: 44.2px;
+    font-weight: 600;
+    line-height: 61px;
+    color:  black;
+    font-family: 'Palanquin Dark', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+.cream{
+    margin-top: -20px;
+    width: 1006px;
+    height: 30px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+}
+.our-products_item{
+    display: flex;
+   justify-content: space-between;
+  
+}
+.our-products_item{
+    color: rgb(102, 102, 102);
+    margin-top: -1px;
+    font-size: 18px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 600;
+    opacity: 0.8;
+}
+.our-products_item:hover{
+    color: rgb(0, 0, 0);
+    
+
+}
+.Rectangle75{
+  
+    width: 580px;
+    height: 415px;
+}
+.Rectangle74{
+    display: flex;
+    /* border: 1px solid ; */
+    margin-top: 50px;
+}
+.bramin-1{
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 35.88px;
+    font-family: 'Palanquin Dark', sans-serif;
+    margin-left: 85px;
+    color: black;
+    
+}
+.Brown{
+    font-size: 16px;
+    font-weight:700px;
+    margin-left: 85px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -11px;
+    color: black;
+}
+.dolir{
+    margin-left: 85px;
+    font-size: 26px;
+}
+.wfew{
+    font-size: 20px;
+    margin-left: -0px;
+}   
+.button-4{
+    width: 165px;
+    height: 49px;
+    background-color:rgba(210, 49, 103, 0.581);
+    margin-left: 85px;
+    color: white;
+    border: rgba(210, 49, 103, 0.581);
+    margin-top: -10px;
+    border-radius: 5px;
+}
+.button-4:hover{
+    background-color:  rgba(214, 67, 116, 1);
+
+}
+.Cayennechocolate{
+    display: flex;
+   /* border:  1px solid black; */
+ 
+}
+
+.Cayennechocolate3{
+    margin-left: 100px;
+    font-size: 26px;
+    font-weight: 700;
+    font-family: 'Palanquin Dark', sans-serif;
+    color: black;
+}
+.Cayennechocolate4{
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-family: 700;
+    margin-left: 100px;
+}
+.Cayennechocolate5{
+    font-size: 26px;
+   margin-left: 100px;
+}
+.pul2255{
+    font-size: 20px;
+    margin-left: -0px;
+}
+.button-5{
+    width: 165px;
+    height: 49px;
+    border: rgba(210, 49, 103, 0.581);
+    background-color:rgba(210, 49, 103, 0.581);
+    color: white;
+    border-radius: 5px;
+    margin-left: 100px;
+}
+.button-5:hover{
+    background-color:  rgba(214, 67, 116, 1);
+}
+.products-item-adele{
+   /* border: 1px solid ; */
+   margin-top: 112px;
+    display: flex;
+}
+.adele-list{
+    width: 350px;
+    /* border: 1px solid; */
+}
+.shirinlik{
+    /* border: 1px solid; */
+    margin-left: 220px;
+}
+
+.qizaloq{
+    margin-top: 90px;
+}
+.adele-title{
+    margin-top: -50px;
+    margin-left: 80px;
+    font-size: 24px;
+}
+.amirka-titlr{
+    opacity: 0.2;
+    margin-left: -1px;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 1);
+}
+.tanag{
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: -80px;
+   
+}
+.hfib{
+    margin-left: -50px;
+    margin-top: 29px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.adele-item-span{
+    margin-left: 120px;
+    margin-top: -20px;
+}
+.products-item-icons{
+    display: flex;
+  align-items: center;
+}
+.products-item-icons-img{
+    margin-left: 20px;
+    border-radius: 20px;
+  margin-top: 40px;
+}
+/* Rectangle-44 */
+.kotta-oyna-op{
+    margin: 0 auto;
+    background-color:rgba(248, 237, 240, 1);
+    ;
+    width: 1600px;
+    height: 679px;
+    /* border: 1px solid ; */
+    margin-top: 30px;
+}
+.RASPBERRY{
+    margin-left: 249px;
+    margin-top: 92px;
+}
+.kotta-oyna-op-83{
+    display: flex;
+}
+.Simple{
+    /* border: 1px solid; */
+    width:700px;
+    height: 500px;
+    margin-left: 200px;
+    margin-top: 87px;
+}
+.Simple-1{
+    font-size: 44.2px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+.simple-2{
+    font-size: 18px;
+    width: 607px;
+    height: 60px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -30px;
+}
+.img-logoypp{
+    width: 30px;
+    height: 30px;
+    margin-top: 17px;
+}
+.siuih span{
+    font-size: 42px;
+    font-weight: 400;
+    margin-left: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+.ofjeof{
+    width: 30px;
+    height: 30px;
+    background-color: aliceblue;
+}
+.wdjwijf{
+    font-size: 22px;
+    margin-left: 50px;
+    margin-top: -30px;
+}
+
+.google-stori{
+    display: flex;
+
+}
+.google-com{
+    width: 200px;
+    height: 77px;
+    margin-left: -12px;
+    margin-top: 15px;
+}
+.google-com1{
+margin-top: 10px;
+margin-left: 7px;
+}
+.oyna-1{
+    width: 1600px;
+    height: 565px;
+    /* border: 1px solid rgb(200, 29, 29); */
+    margin: 0 auto;
+}
+
+.oyna-2{
+    width: 637px;
+    height: 344px;
+    /* border: 1px solid red; */
+    margin-left: 482px;
+    margin-top: 150px;
+}
+.oyna-3{
+    width: 522px;
+    height: 123px;
+    /* border: 1px solid red; */
+    margin-left: 42px;
+}
+.oyna-title{
+    font-size: 44px;
+    margin-top: -10px;
+    text-align: center;
+    font-weight: 500;
+}
+.oyna-4 input{
+    font-size: 14px;
+    width: 303px;
+    height: 74px;
+    text-decoration: none;
+    margin-top: 36px;
+}
+.oyna-23{
+    margin-left: 510px;
+    margin-top: -50px;
+    width: 130px;
+    height: 74px;
+}
+
+.footer{
+    background-color:rgba(10, 8, 8, 1);
+    margin: 0 auto;
+    width: 1600px;
+    height: 381px;
+    /* border: 1px solid red;   */
+}
+.conterin{
+    display: flex;
+}
+.oyna-5{
+    display: flex;
+}
+.ofjepf{
+    width: 637px;
+    height: 74px;
+    margin-top: 30px;
+}
+.fiefhe{
+    width: 134px;
+    height: 77px;
+    background-color: rgba(214, 67, 116, 1);
+    color: white;
+    margin-top: 30px;
+    font-size: 16px;
+}
+.polar-logo{
+    width: 207px;
+    height: 47px;
+   margin-left: -80px;
+   margin-top: 158px;
+}
+.polar-title{
+    font-size: 14px;
+    font-family: 400;
+   line-height: 20px;
+   color: white;
+}
+.rasimni{
+    margin-left: 245px;
+    margin-top: 70px;
+}
+.polar-g3{
+    color: white;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+.hom-loho{
+margin-left: 37px;
+}
+.blog{
+    color: white;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    margin-top: 143px;
+   
+}
+.priching{
+    margin-top: 10px;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    opacity: 0.8;
+    color: white;
+}
+.delevriy{
+    margin-left: 132px;
+}
+.blog-1{
+    margin-top: 120px;
+    font-size: 16px;
+    color: white;
+}
+.Newsletter-1{
+    width: 500px;
+    height: 300px;
+    margin-top: 40px;
+    margin-left: 159px;
+}
+input{
+    width:  388px;
+    height: 55px;
+    text-decoration: none;
+    border: 0.5px solid rgba(210, 49, 102, 1);
+}
+.ehfue{
+    width: 400px;
+    height: 60px;
+   display: flex;
+}
+.wjfefefin{
+    width: 125px;
+    height: 70px;
+    background-color:  rgba(214, 67, 116, 0.54);
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    border: 1px solid rgba(255, 163, 163, 1);
+   
+}
+.wjfefefin:hover{
+    background-color:  rgba(214, 67, 116, 1);
+}
+.paypol{
+    margin-top: 16.69px;
+}
